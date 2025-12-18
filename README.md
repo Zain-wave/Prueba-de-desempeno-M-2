@@ -1,82 +1,85 @@
+**Performance Test – Module 2: HTML and CSS**
 
-**Prueba de Desempeño – Módulo 2: HTML y CSS**
+## 📌 Project Description
 
-## 📌 Descripción del proyecto
+This project corresponds to the **Performance Test for Module 2 (HTML and CSS)** and consists of implementing a **responsive landing page** for the **Nexcent** product, developed exclusively with **HTML5 and CSS3**.
 
-Este proyecto corresponde a la **Prueba de Desempeño del Módulo 2 (HTML y CSS)** y consiste en la implementación de una **landing page responsiva** para el producto **Nexcent**, desarrollada exclusivamente con **HTML5 y CSS3**.
-
-La página replica un diseño profesional tomado como referencia desde Figma, aplicando buenas prácticas de estructura semántica, organización del código, jerarquía visual y adaptabilidad a distintos dispositivos.
-
----
-
-## 🎯 Objetivo
-
-Construir una landing page moderna y visualmente atractiva que:
-
-- Presente claramente la información del producto  
-- Sea completamente responsiva  
-- Utilice correctamente Flexbox y CSS Grid  
-- Mantenga una estructura limpia y escalable  
+The page replicates a professional design based on Figma, applying best practices for semantic structure, code organization, visual hierarchy, and adaptability to different devices.
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## 🎯 Objective
+
+Build a modern and visually appealing landing page that:
+
+- Clearly presents product information
+- Is fully responsive
+- Correctly uses Flexbox and CSS Grid
+- Maintains a clean and scalable structure
+
+---
+
+## 🛠️ Technologies Used
 
 - **HTML5**
 - **CSS3**
-  - Variables CSS (`:root`)
-  - Flexbox
-  - CSS Grid
-  - Media Queries
-  - Transiciones y efectos hover
+- CSS Variables (`:root`)
+- Flexbox
+- CSS Grid
+- Media Queries
+- Transitions and hover effects
 - **Google Fonts** (Inter)
 - **Font Awesome**
 
 ---
 
-## 📁 Estructura del proyecto
+## 📁 Project Structure
 
 ```plaintext
 📦 nexcent-landing-page
- ┣ 📂 assets
- ┃ ┣ 📂 images
- ┣ 📜 index.html
- ┣ 📜 styles.css
- ┗ 📜 README.md
+
+┣ 📂 assets
+
+┃ ┣ 📂 images
+
+┣ 📜 index.html
+
+┣ 📜 styles.css
+┗ 📜 README.md
 ```
 
 ---
 
-## 📱 Diseño Responsive
+## 📱 Responsive Design
 
-Compatible con:
+Compatible with:
 
-- Escritorio (≥ 1024px)
+- Desktop (≥ 1024px)
 - Tablet (≥ 768px)
-- Móvil (≤ 480px)
+- Mobile (≤ 480px)
 
 ---
 
-## ▶️ Cómo ejecutar el proyecto
+## ▶️ How to run the project
 
-1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/nexcent-landing-page.git
-   ```
-2. Abrir `index.html` en el navegador.
-
----
-
-## 👨‍💻 Información del coder
-
-- **Nombre completo:** Sebastian Vargas Ramirez  
-- **Clan:** —  
-- **Correo:** —  
-- **Documento de identidad:** —  
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/nexcent-landing-page.git
+```
+2. Open `index.html` in your browser.
 
 ---
 
-## 📚 Recursos
+## 👨‍💻 Coder Information
+
+- **Full Name:** Sebastian Vargas Ramirez
+- **Clan:** Turing
+- **Email:** Zain-wave@outlook.com
+- **ID Number:** 1039472991
+
+---
+
+## 📚 Resources
 
 - https://fonts.google.com/
 - https://fontawesome.com/
@@ -84,11 +87,14 @@ Compatible con:
 
 ---
 
-## ✅ Criterios de aceptación
+## ✅ Acceptance Criteria
 
-✔ HTML semántico  
-✔ CSS externo y organizado  
-✔ Diseño responsive  
-✔ Interactividad básica  
-✔ Documentación completa  
-"""
+✔ Semantic HTML
+
+✔ Organized External CSS
+
+✔ Responsive Design
+
+✔ Basic Interactivity
+
+✔ Complete Documentation
